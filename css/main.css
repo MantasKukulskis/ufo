@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-div {
+.main-info {
     width: 23%; 
     float: left; 
     margin-left: 20%; 
@@ -10,14 +10,14 @@ div {
     font-family: Arial;
 }
 
-h1 {
+.h-element {
     font-size: 120px; 
     margin-top: 0; 
      margin-bottom: 0; 
      color: dodgerblue;
 }
 
-p {
+.p-element {
     font-size: 48px;
     font-weight: bold; 
     margin-top: 0; 
@@ -25,7 +25,7 @@ p {
     text-transform: uppercase;
 }
 
-a {
+.btn {
     display: inline-block; 
     color: dodgerblue; 
     text-decoration: none; 
@@ -38,7 +38,7 @@ a {
     border-radius: 20px;
 }
 
-img {
+.main-foto {
     background-color: rgb(255, 255, 255); 
     width: 32%; float: left; 
     margin-left: 5%; 
